@@ -1,2 +1,2 @@
-# ncowpert.github.io
+# noahcowper.github.io
 Repository for professional portfolio
