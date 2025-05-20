@@ -1,5 +1,7 @@
 #  Noah Cowperthwaite
 I am a senior undergraduate student studying Geography and GIS at MSU Denver. I'm fascinated by the history of land use controls in the United States and excited to use my technical skills in stduying and addressing the harmful effects of euclidean zoning.
+###  Images
+!{Picture of Noah at the 2024 Denver Century Ride starting line]
 
 ###  Relevant Work
 * ***January 2025 - Present***  
